@@ -11,3 +11,4 @@ class conexao {
         return self::$instance;
     }
 }
+print_r("LOHAN BURRO");

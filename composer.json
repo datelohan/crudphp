@@ -1,0 +1,15 @@
+{
+    "name": "lohan/estdosphp",
+    "autoload": {
+        "psr-4": {
+            "Lohan\\Estdosphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lohan Date",
+            "email": "datelohan@gmail.com"
+        }
+    ],
+    "require": {}
+}
